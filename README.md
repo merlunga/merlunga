@@ -6,24 +6,27 @@ Hincha apasionado de Boca Juniors. Si pierde boca pierde mi familia, Hablidioso 
 __________________
 <h2>Que me gusta?</h2>
 
--**Actividades:** Me gusta jugar a la compu, Escuchar musica y jugar a la pelota 🏈
+- **Actividades:** Me gusta jugar a la compu, Escuchar musica y jugar a la pelota 🏈
 
--**Musica:** Mi cantante favorito es Eminem y mi cancion favorita es Hombre con Alas
+- **Musica:** Mi cantante favorito es Eminem y mi cancion favorita es Hombre con Alas
 
--**Juegos:** Habilidado Gamer, en mi epoca jugador profesional de CS:GO gane: 
-DreamHack Winter 2013 – Fnatic
+- **Juegos:** Habilidado Gamer, en mi epoca jugador profesional de CS:GO gane:
+  
+* DreamHack Winter 2013 – Fnatic
 
-ESL One: Cologne 2015 – Fnatic
+* ESL One: Cologne 2015 – Fnatic
 
-ESL One: Cologne 2016 – SK
+* ESL One: Cologne 2016 – SK
 
-FACEIT Major: London 2018 – Astralis
+* FACEIT Major: London 2018 – Astralis
 
-IEM XIII Katowice Major 2019 – Astralis
+* IEM XIII Katowice Major 2019 – Astralis
 
-2 Partidas por la coca 
+* 2 Partidas por la coca
 
--**Sobre Programacion:** Mi limite esta en print("hola mundo")
+__________________
+
+- **Sobre Programacion:** Mi limite esta en print("hola mundo")
 
 __________________
 
