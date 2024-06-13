@@ -41,7 +41,8 @@ _________________
 
 En planeacion
 
-[image](https://github.com/merlunga/merlunga/assets/172041783/b59df47b-386a-42e3-8560-b91f1a1c8c60)
+
+![image](https://github.com/merlunga/merlunga/assets/172041783/9cdb7d52-7219-4570-b62e-af72607c9cf0)
 
 
 
